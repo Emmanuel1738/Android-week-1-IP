@@ -8,10 +8,6 @@ Emmanuel Bett
  - Java Development Kit. [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
  - Internet Connection
-
- ### Technologies Used
-@@ -32,8 +34,9 @@
-
  ### Getting Started
 
  - Clone the repository to your pc
